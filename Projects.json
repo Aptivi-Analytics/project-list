@@ -1,0 +1,182 @@
+[
+  {
+    "ProjectName": "Kernel Simulator",
+    "Description": "Kernel Simulator simulates our future-planned computer kernel that we are building. It is made entirely in .NET with multiplatform support.",
+    "ProjectSlug": "Kernel-Simulator",
+    "NuGetPackages": [
+      "KS",
+      "KS.CoreCLR"
+    ]
+  },
+  {
+    "ProjectName": "GRILO",
+    "Description": "GRILO is a managed bootloader simulator made entirely with .NET. It allows you to \"boot\" to .NET assemblies that are compatible with GRILO. You too! You can make your .NET application bootable!",
+    "ProjectSlug": "GRILO",
+    "NuGetPackages": [
+      "GRILO.Bootloader",
+      "GRILO.Boot"
+    ]
+  },
+  {
+    "ProjectName": "RetroKS",
+    "Description": "RetroKS allows you to use the 0.0.4 version of Kernel Simulator, which was out in 2018. It usually is run by Kernel Simulator 0.0.24.0 or later.",
+    "ProjectSlug": "RetroKS",
+    "NuGetPackages": [
+
+    ]
+  },
+  {
+    "ProjectName": "dotify",
+    "Description": "Dotify allows you to create a dotfiles repository right from your Linux user profile easily. It supports dotfolders, too! And not only create the repository, but manage it and synchronize it to other systems in your network.",
+    "ProjectSlug": "dotify",
+    "NuGetPackages": [
+
+    ]
+  },
+  {
+    "ProjectName": "uprepos",
+    "Description": "This program aids in updating all your existing Git repositories in your Git library. This saves you time from having to run git fetch and pull individually.",
+    "ProjectSlug": "uprepos",
+    "NuGetPackages": [
+
+    ]
+  },
+  {
+    "ProjectName": "pushrepos",
+    "Description": "This program aids in pushing all your existing Git repositories to the remote if you made multiple changes to multiple repos. This simplifies from writing individual commit messages and pushing them to just one command.",
+    "ProjectSlug": "pushrepos",
+    "NuGetPackages": [
+
+    ]
+  },
+  {
+    "ProjectName": "Extensification",
+    "Description": "Extensification aims to provide you helpful extension methods for common .NET types and some uncommon ones, including the common Newtonsoft.Json methods.",
+    "ProjectSlug": "Extensification",
+    "NuGetPackages": [
+      "Extensification",
+      "Extensification.External",
+      "Extensification.Legacy"
+    ]
+  },
+  {
+    "ProjectName": "Inxi.NET",
+    "Description": "Inxi.NET is a cross-platform hardware information frontend that interacts with the Windows Management Instrumentation and the Inxi backend for Windows and Linux systems.",
+    "ProjectSlug": "Inxi.NET",
+    "NuGetPackages": [
+      "Inxi.NET"
+    ]
+  },
+  {
+    "ProjectName": "NameNumerizer",
+    "Description": "This library helps in categorizing the MP3 file names by track number in the CD/DVD format for albums. This helps in quickly numbering the tracks in the file names to prepare your album faster.",
+    "ProjectSlug": "NameNumerizer",
+    "NuGetPackages": [
+      "NameNumerizer.Core"
+    ]
+  },
+  {
+    "ProjectName": "ShoutStats",
+    "Description": "Statistics of your SHOUTcast server can be obtained using this fine library made entirely in .NET. It gives you information, such as stream info, current track, and so on.",
+    "ProjectSlug": "ShoutStats",
+    "NuGetPackages": [
+      "ShoutStats.Core"
+    ]
+  },
+  {
+    "ProjectName": "ManagedWeatherMap",
+    "Description": "Using OpenWeatherMap as the backend for this library, this library got the \"Managed\" prefix because it's made in .NET. It displays weather data for any city you choose.",
+    "ProjectSlug": "ManagedWeatherMap",
+    "NuGetPackages": [
+      "ManagedWeatherMap"
+    ]
+  },
+  {
+    "ProjectName": "Addresstigator",
+    "Description": "Addresstigator uses Mozilla ISP Database to dynamically fetch the ISP settings from your e-mail address. You can use it in your mail client to quickly obtain these settings to connect to your mail server.",
+    "ProjectSlug": "Addresstigator",
+    "NuGetPackages": [
+      "Addresstigator"
+    ]
+  },
+  {
+    "ProjectName": "LineNumbers",
+    "Description": "This library gets your C# and Visual Basic project's total line numbers. This can be used for analytical applications used to analyze these projects.",
+    "ProjectSlug": "LineNumbers",
+    "NuGetPackages": [
+      "LineNumbers.Core"
+    ]
+  },
+  {
+    "ProjectName": "Uname.NET",
+    "Description": "This sister library to Inxi.NET, Uname.NET, fetches your kernel information and parses them in the clean .NET way.",
+    "ProjectSlug": "Uname.NET",
+    "NuGetPackages": [
+      "Uname.NET"
+    ]
+  },
+  {
+    "ProjectName": "VisualCard",
+    "Description": "This library aims to parse all kinds of contact files, including the VCard 4 files. It can be used in contact and phone applications.",
+    "ProjectSlug": "VisualCard",
+    "NuGetPackages": [
+      "VisualCard"
+    ]
+  },
+  {
+    "ProjectName": "Dictify",
+    "Description": "This is the English Dictionary made in .NET. It defines words and gets the antonyms, synonyms, examples in sentences, and so on. Use this in vocabulary applications.",
+    "ProjectSlug": "Dictify",
+    "NuGetPackages": [
+      "Dictify"
+    ]
+  },
+  {
+    "ProjectName": "Namer",
+    "Description": "This library uses our own names list hosted publicly at GitHub to generate names and surnames. It can be used to give your own stories and movies' protagonists and characters a real name.",
+    "ProjectSlug": "Namer",
+    "NuGetPackages": [
+      "Namer"
+    ]
+  },
+  {
+    "ProjectName": "VT.NET",
+    "Description": "This library handles strings with VT sequences based on our own complete regex rules, and lets you select what you want to do with it, such as sanitizing the strings from the sequences.",
+    "ProjectSlug": "VT.NET",
+    "NuGetPackages": [
+      "Aptivi.VT.NET"
+    ]
+  },
+  {
+    "ProjectName": "ColorSeq",
+    "Description": "Simplifies how to make your own color VT sequence to print text with customized colors to your console, including 255 and true color support, color blind support, and various color properties.",
+    "ProjectSlug": "ColorSeq",
+    "NuGetPackages": [
+      "ColorSeq"
+    ]
+  },
+  {
+    "ProjectName": "TermRead",
+    "Description": "A spiritual reboot of ReadLine.Reboot that allows you to flexibly write your input to the console without any limitations.",
+    "ProjectSlug": "TermRead",
+    "NuGetPackages": [
+      "TermRead"
+    ]
+  },
+  {
+    "ProjectName": "SharpLyrics",
+    "Description": "A C# library that allows you to parse your .LRC and .TXT lyric files. It's a helper to implement lyrics in your own music player.",
+    "ProjectSlug": "SharpLyrics",
+    "NuGetPackages": [
+      "SharpLyrics"
+    ]
+  },
+  {
+    "ProjectName": "Yunikodo",
+    "Description": "This project allows you to query your Unicode character using the Unicode Character Database. It supports all characters up to Unicode 15.0.0.",
+    "ProjectSlug": "Yunikodo",
+    "NuGetPackages": [
+      "Yunikodo"
+    ]
+  }
+]
