@@ -3,7 +3,7 @@
     "ProjectName": "Kernel Simulator",
     "Description": "Kernel Simulator simulates our future-planned computer kernel that we are building. It is made entirely in .NET with multiplatform support.",
     "ProjectSlug": "Kernel-Simulator",
-    "PrpjectSlugGB": "kernel-simulator-manual",
+    "ProjectGBSlug": "kernel-simulator-manual",
     "NuGetPackages": [
       "KS",
       "KS.CoreCLR"
