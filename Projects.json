@@ -13,6 +13,7 @@
     "ProjectName": "GRILO",
     "Description": "GRILO is a managed bootloader simulator made entirely with .NET. It allows you to \"boot\" to .NET assemblies that are compatible with GRILO. You too! You can make your .NET application bootable!",
     "ProjectSlug": "GRILO",
+    "ProjectGBSlug": "grilo-manual",
     "NuGetPackages": [
       "GRILO.Bootloader",
       "GRILO.Boot"
