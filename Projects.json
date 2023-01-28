@@ -1,7 +1,7 @@
 [
   {
     "ProjectName": "Kernel Simulator",
-    "Description": "Kernel Simulator simulates our future-planned computer kernel that we are building. It is made entirely in .NET with multiplatform support.",
+    "Description": "Kernel Simulator simulates our future-planned kernel, Nitrocid Kernel! It is made entirely in .NET with multiplatform support.",
     "ProjectSlug": "Kernel-Simulator",
     "ProjectGBSlug": "kernel-simulator-manual",
     "NuGetPackages": [
