@@ -39,6 +39,7 @@
     "ProjectName": "uprepos",
     "Description": "This program aids in updating all your existing Git repositories in your Git library. This saves you time from having to run git fetch and pull individually.",
     "ProjectSlug": "uprepos",
+    "ProjectGBSlug": "uprepos-manual",
     "NuGetPackages": [
 
     ]
@@ -47,6 +48,7 @@
     "ProjectName": "pushrepos",
     "Description": "This program aids in pushing all your existing Git repositories to the remote if you made multiple changes to multiple repos. This simplifies from writing individual commit messages and pushing them to just one command.",
     "ProjectSlug": "pushrepos",
+    "ProjectGBSlug": "pushrepos-manual",
     "NuGetPackages": [
 
     ]
