@@ -30,6 +30,7 @@
     "ProjectName": "dotify",
     "Description": "Dotify allows you to create a dotfiles repository right from your Linux user profile easily. It supports dotfolders, too! And not only create the repository, but manage it and synchronize it to other systems in your network.",
     "ProjectSlug": "dotify",
+    "ProjectSlug": "dotify-manual",
     "NuGetPackages": [
 
     ]
