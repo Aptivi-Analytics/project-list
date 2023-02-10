@@ -172,6 +172,7 @@
     "ProjectName": "SharpLyrics",
     "Description": "A C# library that allows you to parse your .LRC and .TXT lyric files. It's a helper to implement lyrics in your own music player.",
     "ProjectSlug": "SharpLyrics",
+    "ProjectGBSlug": "sharplyrics",
     "NuGetPackages": [
       "SharpLyrics"
     ]
