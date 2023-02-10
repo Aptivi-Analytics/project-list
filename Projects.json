@@ -148,6 +148,7 @@
     "ProjectName": "VT.NET",
     "Description": "This library handles strings with VT sequences based on our own complete regex rules, and lets you select what you want to do with it, such as sanitizing the strings from the sequences.",
     "ProjectSlug": "VT.NET",
+    "ProjectGBSlug": "vt.net",
     "NuGetPackages": [
       "Aptivi.VT.NET"
     ]
