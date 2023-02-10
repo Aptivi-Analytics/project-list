@@ -60,7 +60,8 @@
     "NuGetPackages": [
       "Extensification",
       "Extensification.External",
-      "Extensification.Legacy"
+      "Extensification.Legacy",
+      "Extensification.NetFX"
     ]
   },
   {
@@ -179,6 +180,7 @@
     "ProjectName": "Yunikodo",
     "Description": "This project allows you to query your Unicode character using the Unicode Character Database. It supports all characters up to Unicode 15.0.0.",
     "ProjectSlug": "Yunikodo",
+    "ProjectGBSlug": "yunikodo",
     "NuGetPackages": [
       "Yunikodo"
     ]
