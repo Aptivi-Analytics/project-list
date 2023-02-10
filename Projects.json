@@ -140,6 +140,7 @@
     "ProjectName": "Namer",
     "Description": "This library uses our own names list hosted publicly at GitHub to generate names and surnames. It can be used to give your own stories and movies' protagonists and characters a real name.",
     "ProjectSlug": "Namer",
+    "ProjectGBSlug": "namer",
     "NuGetPackages": [
       "Namer"
     ]
