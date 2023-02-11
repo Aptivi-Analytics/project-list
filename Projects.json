@@ -132,6 +132,7 @@
     "ProjectName": "Dictify",
     "Description": "This is the English Dictionary made in .NET. It defines words and gets the antonyms, synonyms, examples in sentences, and so on. Use this in vocabulary applications.",
     "ProjectSlug": "Dictify",
+    "ProjectGBSlug": "dictify",
     "NuGetPackages": [
       "Dictify"
     ]
