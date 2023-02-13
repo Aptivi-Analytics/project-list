@@ -116,6 +116,7 @@
     "ProjectName": "Uname.NET",
     "Description": "This sister library to Inxi.NET, Uname.NET, fetches your kernel information and parses them in the clean .NET way.",
     "ProjectSlug": "Uname.NET",
+    "ProjectGBSlug": "uname.net",
     "NuGetPackages": [
       "Uname.NET"
     ]
