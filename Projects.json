@@ -100,6 +100,7 @@
     "ProjectName": "Addresstigator",
     "Description": "Addresstigator uses Mozilla ISP Database to dynamically fetch the ISP settings from your e-mail address. You can use it in your mail client to quickly obtain these settings to connect to your mail server.",
     "ProjectSlug": "Addresstigator",
+    "ProjectGBSlug": "addresstigator",
     "NuGetPackages": [
       "Addresstigator"
     ]
