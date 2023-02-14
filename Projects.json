@@ -92,6 +92,7 @@
     "ProjectName": "ManagedWeatherMap",
     "Description": "Using OpenWeatherMap as the backend for this library, this library got the \"Managed\" prefix because it's made in .NET. It displays weather data for any city you choose.",
     "ProjectSlug": "ManagedWeatherMap",
+    "ProjectGBSlug": "managedweathermap",
     "NuGetPackages": [
       "ManagedWeatherMap"
     ]
