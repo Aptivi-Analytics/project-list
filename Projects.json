@@ -76,6 +76,7 @@
     "ProjectName": "NameNumerizer",
     "Description": "This library helps in categorizing the MP3 file names by track number in the CD/DVD format for albums. This helps in quickly numbering the tracks in the file names to prepare your album faster.",
     "ProjectSlug": "NameNumerizer",
+    "ProjectGBSlug": "namenumerizer",
     "NuGetPackages": [
       "NameNumerizer.Core"
     ]
