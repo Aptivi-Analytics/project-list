@@ -30,7 +30,7 @@
     "ProjectName": "dotify",
     "Description": "Dotify allows you to create a dotfiles repository right from your Linux user profile easily. It supports dotfolders, too! And not only create the repository, but manage it and synchronize it to other systems in your network.",
     "ProjectSlug": "dotify",
-    "ProjectSlug": "dotify-manual",
+    "ProjectGBSlug": "dotify-manual",
     "NuGetPackages": [
 
     ]
@@ -76,7 +76,7 @@
     "ProjectName": "NameNumerizer",
     "Description": "This library helps in categorizing the MP3 file names by track number in the CD/DVD format for albums. This helps in quickly numbering the tracks in the file names to prepare your album faster.",
     "ProjectSlug": "NameNumerizer",
-    "ProjectGBSlug": "namenumerizer",
+    "ProjectGBSlug": "namenumerizer-manual",
     "NuGetPackages": [
       "NameNumerizer.Core"
     ]
@@ -93,7 +93,7 @@
     "ProjectName": "ManagedWeatherMap",
     "Description": "Using OpenWeatherMap as the backend for this library, this library got the \"Managed\" prefix because it's made in .NET. It displays weather data for any city you choose.",
     "ProjectSlug": "ManagedWeatherMap",
-    "ProjectGBSlug": "managedweathermap",
+    "ProjectGBSlug": "managedweathermap-manual",
     "NuGetPackages": [
       "ManagedWeatherMap"
     ]
@@ -102,7 +102,7 @@
     "ProjectName": "Addresstigator",
     "Description": "Addresstigator uses Mozilla ISP Database to dynamically fetch the ISP settings from your e-mail address. You can use it in your mail client to quickly obtain these settings to connect to your mail server.",
     "ProjectSlug": "Addresstigator",
-    "ProjectGBSlug": "addresstigator",
+    "ProjectGBSlug": "addresstigator-manual",
     "NuGetPackages": [
       "Addresstigator"
     ]
@@ -119,7 +119,7 @@
     "ProjectName": "Uname.NET",
     "Description": "This sister library to Inxi.NET, Uname.NET, fetches your kernel information and parses them in the clean .NET way.",
     "ProjectSlug": "Uname.NET",
-    "ProjectGBSlug": "uname.net",
+    "ProjectGBSlug": "uname.net-manual",
     "NuGetPackages": [
       "Uname.NET"
     ]
@@ -136,7 +136,7 @@
     "ProjectName": "Dictify",
     "Description": "This is the English Dictionary made in .NET. It defines words and gets the antonyms, synonyms, examples in sentences, and so on. Use this in vocabulary applications.",
     "ProjectSlug": "Dictify",
-    "ProjectGBSlug": "dictify",
+    "ProjectGBSlug": "dictify-manual",
     "NuGetPackages": [
       "Dictify"
     ]
@@ -145,7 +145,7 @@
     "ProjectName": "Namer",
     "Description": "This library uses our own names list hosted publicly at GitHub to generate names and surnames. It can be used to give your own stories and movies' protagonists and characters a real name.",
     "ProjectSlug": "Namer",
-    "ProjectGBSlug": "namer",
+    "ProjectGBSlug": "namer-manual",
     "NuGetPackages": [
       "Namer"
     ]
@@ -154,7 +154,7 @@
     "ProjectName": "VT.NET",
     "Description": "This library handles strings with VT sequences based on our own complete regex rules, and lets you select what you want to do with it, such as sanitizing the strings from the sequences.",
     "ProjectSlug": "VT.NET",
-    "ProjectGBSlug": "vt.net",
+    "ProjectGBSlug": "vt.net-manual",
     "NuGetPackages": [
       "Aptivi.VT.NET"
     ]
@@ -179,7 +179,7 @@
     "ProjectName": "SharpLyrics",
     "Description": "A C# library that allows you to parse your .LRC and .TXT lyric files. It's a helper to implement lyrics in your own music player.",
     "ProjectSlug": "SharpLyrics",
-    "ProjectGBSlug": "sharplyrics",
+    "ProjectGBSlug": "sharplyrics-manual",
     "NuGetPackages": [
       "SharpLyrics"
     ]
@@ -188,7 +188,7 @@
     "ProjectName": "Yunikodo",
     "Description": "This project allows you to query your Unicode character using the Unicode Character Database. It supports all characters up to Unicode 15.0.0.",
     "ProjectSlug": "Yunikodo",
-    "ProjectGBSlug": "yunikodo",
+    "ProjectGBSlug": "yunikodo-manual",
     "NuGetPackages": [
       "Yunikodo"
     ]
@@ -197,7 +197,7 @@
     "ProjectName": "Wordament",
     "Description": "A C# library that takes a random word from +400k word list",
     "ProjectSlug": "Wordament",
-    "ProjectGBSlug": "wordament",
+    "ProjectGBSlug": "wordament-manual",
     "NuGetPackages": [
       "Wordament"
     ]
