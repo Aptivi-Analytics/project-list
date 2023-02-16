@@ -68,6 +68,7 @@
     "ProjectName": "Inxi.NET",
     "Description": "Inxi.NET is a cross-platform hardware information frontend that interacts with the Windows Management Instrumentation and the Inxi backend for Windows and Linux systems.",
     "ProjectSlug": "Inxi.NET",
+    "ProjectGBSlug": "inxi.net-manual",
     "NuGetPackages": [
       "Inxi.NET"
     ]
