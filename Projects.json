@@ -86,6 +86,7 @@
     "ProjectName": "ShoutStats",
     "Description": "Statistics of your SHOUTcast server can be obtained using this fine library made entirely in .NET. It gives you information, such as stream info, current track, and so on.",
     "ProjectSlug": "ShoutStats",
+    "ProjectGBSlug": "shoutstats-manual",
     "NuGetPackages": [
       "ShoutStats.Core"
     ]
