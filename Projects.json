@@ -164,6 +164,7 @@
     "ProjectName": "ColorSeq",
     "Description": "Simplifies how to make your own color VT sequence to print text with customized colors to your console, including 255 and true color support, color blind support, and various color properties.",
     "ProjectSlug": "ColorSeq",
+    "ProjectGBSlug": "colorseq-manual",
     "NuGetPackages": [
       "ColorSeq"
     ]
