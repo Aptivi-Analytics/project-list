@@ -113,6 +113,7 @@
     "ProjectName": "LineNumbers",
     "Description": "This library gets your C# and Visual Basic project's total line numbers. This can be used for analytical applications used to analyze these projects.",
     "ProjectSlug": "LineNumbers",
+    "ProjectGBSlug": "linenumbers-manual",
     "NuGetPackages": [
       "LineNumbers.Core"
     ]
