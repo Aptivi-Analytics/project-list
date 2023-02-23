@@ -177,6 +177,7 @@
     "ProjectName": "TermRead",
     "Description": "A spiritual reboot of ReadLine.Reboot that allows you to flexibly write your input to the console without any limitations.",
     "ProjectSlug": "TermRead",
+    "ProjectGBSlug": "termread-manual",
     "NuGetPackages": [
       "TermRead"
     ]
