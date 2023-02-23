@@ -57,6 +57,7 @@
     "ProjectName": "Extensification",
     "Description": "Extensification aims to provide you helpful extension methods for common .NET types and some uncommon ones, including the common Newtonsoft.Json methods.",
     "ProjectSlug": "Extensification",
+    "ProjectGBSlug": "extensification-manual",
     "NuGetPackages": [
       "Extensification",
       "Extensification.External",
@@ -131,6 +132,7 @@
     "ProjectName": "VisualCard",
     "Description": "This library aims to parse all kinds of contact files, including the VCard 4 files. It can be used in contact and phone applications.",
     "ProjectSlug": "VisualCard",
+    "ProjectGBSlug": "visualcard-manual",
     "NuGetPackages": [
       "VisualCard"
     ]
