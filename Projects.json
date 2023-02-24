@@ -208,5 +208,14 @@
     "NuGetPackages": [
       "Wordament"
     ]
+  },
+  {
+    "ProjectName": "Syndian",
+    "Description": "C# library that reads the RSS feeds and parses them",
+    "ProjectSlug": "Syndian",
+    "ProjectGBSlug": "syndian-manual",
+    "NuGetPackages": [
+      "Syndian"
+    ]
   }
 ]
