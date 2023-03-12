@@ -19,6 +19,13 @@
     ]
   },
   {
+    "ProjectName": "ColorPrint",
+    "Description": "An application that gets information about any color from all types using the built-in color wheel function with the color blindness simulator included.",
+    "ProjectSlug": "ColorPrint",
+    "ProjectGBSlug": "colorprint-manual",
+    "NuGetPackages": []
+  },
+  {
     "ProjectName": "RetroKS",
     "Description": "RetroKS allows you to use the 0.0.4 version of Kernel Simulator, which was out in 2018. It usually is run by Kernel Simulator 0.0.24.0 or later.",
     "ProjectSlug": "RetroKS",
