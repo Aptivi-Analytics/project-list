@@ -23,7 +23,9 @@
     "Description": "An application that gets information about any color from all types using the built-in color wheel function with the color blindness simulator included.",
     "ProjectSlug": "ColorPrint",
     "ProjectGBSlug": "colorprint-manual",
-    "NuGetPackages": []
+    "NuGetPackages": [
+      "ColorPrint.Core"
+    ]
   },
   {
     "ProjectName": "RetroKS",
