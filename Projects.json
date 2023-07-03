@@ -226,5 +226,14 @@
     "NuGetPackages": [
       "Syndian"
     ]
+  },
+  {
+    "ProjectName": "SemanVer",
+    "Description": "C# library that handles semantic version string parsing",
+    "ProjectSlug": "SemanVer",
+    "ProjectGBSlug": "semanver-manual",
+    "NuGetPackages": [
+      "SemanVer"
+    ]
   }
 ]
