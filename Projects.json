@@ -63,18 +63,6 @@
     ]
   },
   {
-    "ProjectName": "Extensification",
-    "Description": "Extensification aims to provide you helpful extension methods for common .NET types and some uncommon ones, including the common Newtonsoft.Json methods.",
-    "ProjectSlug": "Extensification",
-    "ProjectGBSlug": "extensification-manual",
-    "NuGetPackages": [
-      "Extensification",
-      "Extensification.External",
-      "Extensification.Legacy",
-      "Extensification.NetFX"
-    ]
-  },
-  {
     "ProjectName": "Inxi.NET",
     "Description": "Inxi.NET is a cross-platform hardware information frontend that interacts with the Windows Management Instrumentation and the Inxi backend for Windows and Linux systems.",
     "ProjectSlug": "Inxi.NET",
@@ -234,6 +222,15 @@
     "ProjectGBSlug": "syndian-manual",
     "NuGetPackages": [
       "Syndian"
+    ]
+  },
+  {
+    "ProjectName": "SemanVer",
+    "Description": "C# library that handles semantic version string parsing",
+    "ProjectSlug": "SemanVer",
+    "ProjectGBSlug": "semanver-manual",
+    "NuGetPackages": [
+      "SemanVer"
     ]
   }
 ]
