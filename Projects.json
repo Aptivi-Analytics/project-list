@@ -187,6 +187,15 @@
     "ProjectImageLink": "ColorSeq/OfficialAppIcon-ColorSeq-512.png"
   },
   {
+    "ProjectName": "colorseq-rust",
+    "Description": "Simplifies how to make your own color VT sequence to print text with customized colors to your console, including 255 and true color support, color blind support, and various color properties.",
+    "ProjectSlug": "colorseq-rust",
+    "ProjectGBSlug": "colorseq-manual",
+    "NuGetPackages": [
+	
+    ]
+  },
+  {
     "ProjectName": "TermRead",
     "Description": "A spiritual reboot of ReadLine.Reboot that allows you to flexibly write your input to the console without any limitations.",
     "ProjectSlug": "TermRead",
