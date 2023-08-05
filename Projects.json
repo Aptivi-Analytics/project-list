@@ -6,7 +6,8 @@
     "ProjectGBSlug": "nitrocid-ks-manual",
     "NuGetPackages": [
       "KS"
-    ]
+    ],
+    "ProjectImageLink": "public/Nitrocid/OfficialAppIcon-KernelSimulator-256.png"
   },
   {
     "ProjectName": "GRILO",
@@ -16,7 +17,8 @@
     "NuGetPackages": [
       "GRILO.Bootloader",
       "GRILO.Boot"
-    ]
+    ],
+    "ProjectImageLink": "GRILO.Bootloader/OfficialAppIcon-GRILO-512.png"
   },
   {
     "ProjectName": "ColorPrint",
@@ -25,7 +27,8 @@
     "ProjectGBSlug": "colorprint-manual",
     "NuGetPackages": [
       "ColorPrint.Core"
-    ]
+    ],
+    "ProjectImageLink": "ColorPrint/OfficialAppIcon-ColorPrint-512.png"
   },
   {
     "ProjectName": "RetroKS",
@@ -33,7 +36,8 @@
     "ProjectSlug": "RetroKS",
     "NuGetPackages": [
 
-    ]
+    ],
+    "ProjectImageLink": "RetroKS/OfficialAppIcon-KernelSimulator-256.png"
   },
   {
     "ProjectName": "dotify",
@@ -69,7 +73,8 @@
     "ProjectGBSlug": "inxi.net-manual",
     "NuGetPackages": [
       "Inxi.NET"
-    ]
+    ],
+    "ProjectImageLink": "Inxi.NET/OfficialAppIcon-InxiNET-512.png"
   },
   {
     "ProjectName": "NameNumerizer",
@@ -78,7 +83,8 @@
     "ProjectGBSlug": "namenumerizer-manual",
     "NuGetPackages": [
       "NameNumerizer.Core"
-    ]
+    ],
+    "ProjectImageLink": "NameNumerizer.Core/OfficialAppIcon-NameNumerizer-512.png"
   },
   {
     "ProjectName": "ShoutStats",
@@ -87,7 +93,8 @@
     "ProjectGBSlug": "shoutstats-manual",
     "NuGetPackages": [
       "ShoutStats.Core"
-    ]
+    ],
+    "ProjectImageLink": "ShoutStats.Core/OfficialAppIcon-ShoutStats-512.png"
   },
   {
     "ProjectName": "ManagedWeatherMap",
@@ -96,7 +103,8 @@
     "ProjectGBSlug": "managedweathermap-manual",
     "NuGetPackages": [
       "ManagedWeatherMap"
-    ]
+    ],
+    "ProjectImageLink": "ManagedWeatherMap/OfficialAppIcon-ManagedWeatherMap-512.png"
   },
   {
     "ProjectName": "Addresstigator",
@@ -105,7 +113,8 @@
     "ProjectGBSlug": "addresstigator-manual",
     "NuGetPackages": [
       "Addresstigator"
-    ]
+    ],
+    "ProjectImageLink": "Addresstigator/OfficialAppIcon-Addresstigator-512.png"
   },
   {
     "ProjectName": "LineNumbers",
@@ -114,7 +123,8 @@
     "ProjectGBSlug": "linenumbers-manual",
     "NuGetPackages": [
       "LineNumbers.Core"
-    ]
+    ],
+    "ProjectImageLink": "LineNumbers.Core/OfficialAppIcon-LineNumbers-512.png"
   },
   {
     "ProjectName": "Uname.NET",
@@ -123,7 +133,8 @@
     "ProjectGBSlug": "uname.net-manual",
     "NuGetPackages": [
       "Uname.NET"
-    ]
+    ],
+    "ProjectImageLink": "Uname.NET/OfficialAppIcon-UnameNET-512.png"
   },
   {
     "ProjectName": "VisualCard",
@@ -132,7 +143,8 @@
     "ProjectGBSlug": "visualcard-manual",
     "NuGetPackages": [
       "VisualCard"
-    ]
+    ],
+    "ProjectImageLink": "VisualCard/OfficialAppIcon-VisualCard-512.png"
   },
   {
     "ProjectName": "Dictify",
@@ -141,7 +153,8 @@
     "ProjectGBSlug": "dictify-manual",
     "NuGetPackages": [
       "Dictify"
-    ]
+    ],
+    "ProjectImageLink": "Dictify/OfficialAppIcon-Dictify-512.png"
   },
   {
     "ProjectName": "Namer",
@@ -150,7 +163,8 @@
     "ProjectGBSlug": "namer-manual",
     "NuGetPackages": [
       "Namer"
-    ]
+    ],
+    "ProjectImageLink": "Namer/OfficialAppIcon-Namer-512.png"
   },
   {
     "ProjectName": "VT.NET",
@@ -159,7 +173,8 @@
     "ProjectGBSlug": "vt.net-manual",
     "NuGetPackages": [
       "Aptivi.VT.NET"
-    ]
+    ],
+    "ProjectImageLink": "VT.NET/OfficialAppIcon-VT.NET-512.png"
   },
   {
     "ProjectName": "ColorSeq",
@@ -168,7 +183,8 @@
     "ProjectGBSlug": "colorseq-manual",
     "NuGetPackages": [
       "ColorSeq"
-    ]
+    ],
+    "ProjectImageLink": "ColorSeq/OfficialAppIcon-ColorSeq-512.png"
   },
   {
     "ProjectName": "TermRead",
@@ -177,7 +193,8 @@
     "ProjectGBSlug": "termread-manual",
     "NuGetPackages": [
       "TermRead"
-    ]
+    ],
+    "ProjectImageLink": "TermRead/OfficialAppIcon-TermRead-512.png"
   },
   {
     "ProjectName": "SharpLyrics",
@@ -186,7 +203,8 @@
     "ProjectGBSlug": "sharplyrics-manual",
     "NuGetPackages": [
       "SharpLyrics"
-    ]
+    ],
+    "ProjectImageLink": "SharpLyrics/OfficialAppIcon-SharpLyrics-512.png"
   },
   {
     "ProjectName": "Yunikodo",
@@ -195,7 +213,8 @@
     "ProjectGBSlug": "yunikodo-manual",
     "NuGetPackages": [
       "Yunikodo"
-    ]
+    ],
+    "ProjectImageLink": "Yunikodo/OfficialAppIcon-Yunikodo-512.png"
   },
   {
     "ProjectName": "Wordament",
@@ -204,7 +223,8 @@
     "ProjectGBSlug": "wordament-manual",
     "NuGetPackages": [
       "Wordament"
-    ]
+    ],
+    "ProjectImageLink": "Wordament/OfficialAppIcon-Wordament-512.png"
   },
   {
     "ProjectName": "Syndian",
@@ -213,7 +233,8 @@
     "ProjectGBSlug": "syndian-manual",
     "NuGetPackages": [
       "Syndian"
-    ]
+    ],
+    "ProjectImageLink": "Syndian/OfficialAppIcon-Syndian-512.png"
   },
   {
     "ProjectName": "SemanVer",
@@ -222,6 +243,7 @@
     "ProjectGBSlug": "semanver-manual",
     "NuGetPackages": [
       "SemanVer"
-    ]
+    ],
+    "ProjectImageLink": "SemanVer/OfficialAppIcon-SemanVer-512.png"
   }
 ]
