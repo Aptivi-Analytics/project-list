@@ -21,16 +21,6 @@
     "ProjectImageLink": "GRILO.Bootloader/OfficialAppIcon-GRILO-512.png"
   },
   {
-    "ProjectName": "ColorPrint",
-    "Description": "An application that gets information about any color from all types using the built-in color wheel function with the color blindness simulator included.",
-    "ProjectSlug": "ColorPrint",
-    "ProjectGBSlug": "colorprint-manual",
-    "NuGetPackages": [
-      "ColorPrint.Core"
-    ],
-    "ProjectImageLink": "ColorPrint/OfficialAppIcon-ColorPrint-512.png"
-  },
-  {
     "ProjectName": "RetroKS",
     "Description": "RetroKS allows you to use the 0.0.4 version of Kernel Simulator, which was out in 2018. It usually is run by Kernel Simulator 0.0.24.0 or later.",
     "ProjectSlug": "RetroKS",
@@ -167,26 +157,6 @@
     "ProjectImageLink": "Namer/OfficialAppIcon-Namer-512.png"
   },
   {
-    "ProjectName": "VT.NET",
-    "Description": "This library handles strings with VT sequences based on our own complete regex rules, and lets you select what you want to do with it, such as sanitizing the strings from the sequences.",
-    "ProjectSlug": "VT.NET",
-    "ProjectGBSlug": "vt.net-manual",
-    "NuGetPackages": [
-      "Aptivi.VT.NET"
-    ],
-    "ProjectImageLink": "VT.NET/OfficialAppIcon-VT.NET-512.png"
-  },
-  {
-    "ProjectName": "ColorSeq",
-    "Description": "Simplifies how to make your own color VT sequence to print text with customized colors to your console, including 255 and true color support, color blind support, and various color properties.",
-    "ProjectSlug": "ColorSeq",
-    "ProjectGBSlug": "colorseq-manual",
-    "NuGetPackages": [
-      "ColorSeq"
-    ],
-    "ProjectImageLink": "ColorSeq/OfficialAppIcon-ColorSeq-512.png"
-  },
-  {
     "ProjectName": "colorseq-rust",
     "Description": "Simplifies how to make your own color VT sequence to print text with customized colors to your console, including 255 and true color support, color blind support, and various color properties.",
     "ProjectSlug": "colorseq-rust",
@@ -194,16 +164,6 @@
     "NuGetPackages": [
 	
     ]
-  },
-  {
-    "ProjectName": "TermRead",
-    "Description": "A spiritual reboot of ReadLine.Reboot that allows you to flexibly write your input to the console without any limitations.",
-    "ProjectSlug": "TermRead",
-    "ProjectGBSlug": "termread-manual",
-    "NuGetPackages": [
-      "TermRead"
-    ],
-    "ProjectImageLink": "TermRead/OfficialAppIcon-TermRead-512.png"
   },
   {
     "ProjectName": "SharpLyrics",
@@ -254,5 +214,15 @@
       "SemanVer"
     ],
     "ProjectImageLink": "SemanVer/OfficialAppIcon-SemanVer-512.png"
+  },
+  {
+    "ProjectName": "Terminaux",
+    "Description": "This library aims to be the most advanced console manipulation library for your console applications. This library allows you to manipulate with the console, like colors, color selection, choices, inputs, text writing, and more.",
+    "ProjectSlug": "Terminaux",
+    "ProjectGBSlug": "terminaux-manual",
+    "NuGetPackages": [
+      "Terminaux"
+    ],
+    "ProjectImageLink": "Terminaux/OfficialAppIcon-Terminaux-512.png"
   }
 ]
