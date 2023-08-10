@@ -225,5 +225,15 @@
       "Terminaux"
     ],
     "ProjectImageLink": "Terminaux/OfficialAppIcon-Terminaux-512.png"
+  },
+  {
+    "ProjectName": "SpaceMan",
+    "Description": "This library aims to be the most advanced console manipulation library for your console applications. This library allows you to manipulate with the console, like colors, color selection, choices, inputs, text writing, and more.",
+    "ProjectSlug": "SpaceMan",
+    "ProjectGBSlug": "spaceman-manual",
+    "NuGetPackages": [
+      "SpaceMan"
+    ],
+    "ProjectImageLink": "SpaceMan/OfficialAppIcon-SpaceMan-512.png"
   }
 ]
