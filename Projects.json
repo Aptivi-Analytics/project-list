@@ -235,5 +235,15 @@
       "SpaceMan"
     ],
     "ProjectImageLink": "SpaceMan/OfficialAppIcon-SpaceMan-512.png"
+  },
+  {
+    "ProjectName": "NuGlobal",
+    "Description": "nuglobal is the offline NuGet global feed initializer for .NET offline builds. It allows you to install NuGet package files to either your home directory or to your systemwide configuration directory so that they can get initialized for offline .NET builds.",
+    "ProjectSlug": "NuGlobal",
+    "ProjectGBSlug": "nuglobal-manual",
+    "NuGetPackages": [
+      
+    ],
+    "ProjectImageLink": "OfficialAppIcon-NuGlobal-512.png"
   }
 ]
