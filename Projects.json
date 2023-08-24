@@ -245,5 +245,15 @@
       
     ],
     "ProjectImageLink": "OfficialAppIcon-NuGlobal-512.png"
+  },
+  {
+    "ProjectName": "BassBoom",
+    "Description": "[UNFINISHED] A cross-platform music app and library",
+    "ProjectSlug": "BassBoom",
+    "ProjectGBSlug": "bassboom-manual",
+    "NuGetPackages": [
+      
+    ],
+    "ProjectImageLink": "OfficialAppIcon-BassBoom-512.png"
   }
 ]
