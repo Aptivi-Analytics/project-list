@@ -248,12 +248,13 @@
   },
   {
     "ProjectName": "BassBoom",
-    "Description": "[UNFINISHED] A cross-platform music app and library",
+    "Description": "0.0.1 Alpha 1 - A cross-platform music app and library",
     "ProjectSlug": "BassBoom",
     "ProjectGBSlug": "bassboom-manual",
     "NuGetPackages": [
-      
+      "BassBoom.Basolia",
+      "BassBoom.Native"
     ],
-    "ProjectImageLink": "OfficialAppIcon-BassBoom-512.png"
+    "ProjectImageLink": "BassBoom/Assets/OfficialAppIcon-BassBoom-512.png"
   }
 ]
