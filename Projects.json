@@ -256,5 +256,16 @@
       "BassBoom.Native"
     ],
     "ProjectImageLink": "BassBoom/Assets/OfficialAppIcon-BassBoom-512.png"
+  },
+  {
+    "ProjectName": "SpecProbe",
+    "Description": "A super-fast library that gets hardware information directly from your system",
+    "ProjectSlug": "SpecProbe",
+    "ProjectGBSlug": "specprobe-manual",
+    "NuGetPackages": [
+      "SpecProbe",
+      "SpecProbe.Native"
+    ],
+    "ProjectImageLink": "SpecProbe/OfficialAppIcon-SpecProbe-512.png"
   }
 ]
