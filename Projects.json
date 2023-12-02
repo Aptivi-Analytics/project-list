@@ -57,16 +57,6 @@
     ]
   },
   {
-    "ProjectName": "Inxi.NET",
-    "Description": "Inxi.NET is a cross-platform hardware information frontend that interacts with the Windows Management Instrumentation and the Inxi backend for Windows and Linux systems.",
-    "ProjectSlug": "Inxi.NET",
-    "ProjectGBSlug": "inxi.net-manual",
-    "NuGetPackages": [
-      "Inxi.NET"
-    ],
-    "ProjectImageLink": "Inxi.NET/OfficialAppIcon-InxiNET-512.png"
-  },
-  {
     "ProjectName": "NameNumerizer",
     "Description": "This library helps in categorizing the MP3 file names by track number in the CD/DVD format for albums. This helps in quickly numbering the tracks in the file names to prepare your album faster.",
     "ProjectSlug": "NameNumerizer",
@@ -97,16 +87,6 @@
     "ProjectImageLink": "ManagedWeatherMap/OfficialAppIcon-ManagedWeatherMap-512.png"
   },
   {
-    "ProjectName": "Addresstigator",
-    "Description": "Addresstigator uses Mozilla ISP Database to dynamically fetch the ISP settings from your e-mail address. You can use it in your mail client to quickly obtain these settings to connect to your mail server.",
-    "ProjectSlug": "Addresstigator",
-    "ProjectGBSlug": "addresstigator-manual",
-    "NuGetPackages": [
-      "Addresstigator"
-    ],
-    "ProjectImageLink": "Addresstigator/OfficialAppIcon-Addresstigator-512.png"
-  },
-  {
     "ProjectName": "LineNumbers",
     "Description": "This library gets your C# and Visual Basic project's total line numbers. This can be used for analytical applications used to analyze these projects.",
     "ProjectSlug": "LineNumbers",
@@ -115,16 +95,6 @@
       "LineNumbers.Core"
     ],
     "ProjectImageLink": "LineNumbers.Core/OfficialAppIcon-LineNumbers-512.png"
-  },
-  {
-    "ProjectName": "Uname.NET",
-    "Description": "This sister library to Inxi.NET, Uname.NET, fetches your kernel information and parses them in the clean .NET way.",
-    "ProjectSlug": "Uname.NET",
-    "ProjectGBSlug": "uname.net-manual",
-    "NuGetPackages": [
-      "Uname.NET"
-    ],
-    "ProjectImageLink": "Uname.NET/OfficialAppIcon-UnameNET-512.png"
   },
   {
     "ProjectName": "VisualCard",
@@ -137,26 +107,6 @@
     "ProjectImageLink": "VisualCard/OfficialAppIcon-VisualCard-512.png"
   },
   {
-    "ProjectName": "Dictify",
-    "Description": "This is the English Dictionary made in .NET. It defines words and gets the antonyms, synonyms, examples in sentences, and so on. Use this in vocabulary applications.",
-    "ProjectSlug": "Dictify",
-    "ProjectGBSlug": "dictify-manual",
-    "NuGetPackages": [
-      "Dictify"
-    ],
-    "ProjectImageLink": "Dictify/OfficialAppIcon-Dictify-512.png"
-  },
-  {
-    "ProjectName": "Namer",
-    "Description": "This library uses our own names list hosted publicly at GitHub to generate names and surnames. It can be used to give your own stories and movies' protagonists and characters a real name.",
-    "ProjectSlug": "Namer",
-    "ProjectGBSlug": "namer-manual",
-    "NuGetPackages": [
-      "Namer"
-    ],
-    "ProjectImageLink": "Namer/OfficialAppIcon-Namer-512.png"
-  },
-  {
     "ProjectName": "colorseq-rust",
     "Description": "Simplifies how to make your own color VT sequence to print text with customized colors to your console, including 255 and true color support, color blind support, and various color properties. Rust version. Part of the Terminaux suite.",
     "ProjectSlug": "colorseq-rust",
@@ -165,26 +115,6 @@
 	
     ],
     "ProjectImageLink": "OfficialAppIcon-ColorSeq-Rust-512.png"
-  },
-  {
-    "ProjectName": "Yunikodo",
-    "Description": "This project allows you to query your Unicode character using the Unicode Character Database. It supports all characters up to Unicode 15.0.0.",
-    "ProjectSlug": "Yunikodo",
-    "ProjectGBSlug": "yunikodo-manual",
-    "NuGetPackages": [
-      "Yunikodo"
-    ],
-    "ProjectImageLink": "Yunikodo/OfficialAppIcon-Yunikodo-512.png"
-  },
-  {
-    "ProjectName": "Wordament",
-    "Description": "A C# library that takes a random word from +400k word list",
-    "ProjectSlug": "Wordament",
-    "ProjectGBSlug": "wordament-manual",
-    "NuGetPackages": [
-      "Wordament"
-    ],
-    "ProjectImageLink": "Wordament/OfficialAppIcon-Wordament-512.png"
   },
   {
     "ProjectName": "Syndian",
@@ -197,16 +127,6 @@
     "ProjectImageLink": "Syndian/OfficialAppIcon-Syndian-512.png"
   },
   {
-    "ProjectName": "SemanVer",
-    "Description": "C# library that handles semantic version string parsing",
-    "ProjectSlug": "SemanVer",
-    "ProjectGBSlug": "semanver-manual",
-    "NuGetPackages": [
-      "SemanVer"
-    ],
-    "ProjectImageLink": "SemanVer/OfficialAppIcon-SemanVer-512.png"
-  },
-  {
     "ProjectName": "Terminaux",
     "Description": "This library aims to be the most advanced console manipulation library for your console applications. This library allows you to manipulate with the console, like colors, color selection, choices, inputs, text writing, and more.",
     "ProjectSlug": "Terminaux",
@@ -215,16 +135,6 @@
       "Terminaux"
     ],
     "ProjectImageLink": "Terminaux/OfficialAppIcon-Terminaux-512.png"
-  },
-  {
-    "ProjectName": "SpaceMan",
-    "Description": "This library aims to be the most advanced console manipulation library for your console applications. This library allows you to manipulate with the console, like colors, color selection, choices, inputs, text writing, and more.",
-    "ProjectSlug": "SpaceMan",
-    "ProjectGBSlug": "spaceman-manual",
-    "NuGetPackages": [
-      "SpaceMan"
-    ],
-    "ProjectImageLink": "SpaceMan/OfficialAppIcon-SpaceMan-512.png"
   },
   {
     "ProjectName": "NuGlobal",
@@ -238,7 +148,7 @@
   },
   {
     "ProjectName": "BassBoom",
-    "Description": "0.0.1 Alpha 1 - A cross-platform music app and library",
+    "Description": "0.0.1 Alpha 2 - A cross-platform music app and library",
     "ProjectSlug": "BassBoom",
     "ProjectGBSlug": "bassboom-manual",
     "NuGetPackages": [
@@ -258,13 +168,14 @@
     ],
     "ProjectImageLink": "SpecProbe/OfficialAppIcon-SpecProbe-512.png"
   },
-  {                                                                                                                                                                                       "ProjectName": "Textify",
+  {
+    "ProjectName": "Textify",
     "Description": "A text manipulation library for C# and Visual Basic",
     "ProjectSlug": "Textify",
     "ProjectGBSlug": "textify-manual", 
     "NuGetPackages": [
         "Textify.Offline",
-	"Textify.Online"
+        "Textify.Online"
     ],
     "ProjectImageLink": "Textify/OfficialAppIcon-Textify-512.png"
   }
