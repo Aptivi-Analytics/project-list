@@ -257,5 +257,15 @@
       "SpecProbe.Native"
     ],
     "ProjectImageLink": "SpecProbe/OfficialAppIcon-SpecProbe-512.png"
+  },
+  {                                                                                                                                                                                       "ProjectName": "Textify",
+    "Description": "A text manipulation library for C# and Visual Basic",
+    "ProjectSlug": "Textify",
+    "ProjectGBSlug": "textify-manual", 
+    "NuGetPackages": [
+        "Textify.Offline",
+	"Textify.Online"
+    ],
+    "ProjectImageLink": "Textify/OfficialAppIcon-Textify-512.png"
   }
 ]
