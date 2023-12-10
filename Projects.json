@@ -57,16 +57,6 @@
     ]
   },
   {
-    "ProjectName": "NameNumerizer",
-    "Description": "This library helps in categorizing the MP3 file names by track number in the CD/DVD format for albums. This helps in quickly numbering the tracks in the file names to prepare your album faster.",
-    "ProjectSlug": "NameNumerizer",
-    "ProjectGBSlug": "namenumerizer-manual",
-    "NuGetPackages": [
-      "NameNumerizer.Core"
-    ],
-    "ProjectImageLink": "NameNumerizer.Core/OfficialAppIcon-NameNumerizer-512.png"
-  },
-  {
     "ProjectName": "ShoutStats",
     "Description": "Statistics of your SHOUTcast server can be obtained using this fine library made entirely in .NET. It gives you information, such as stream info, current track, and so on.",
     "ProjectSlug": "ShoutStats",
