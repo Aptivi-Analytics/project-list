@@ -57,26 +57,6 @@
     ]
   },
   {
-    "ProjectName": "ShoutStats",
-    "Description": "Statistics of your SHOUTcast server can be obtained using this fine library made entirely in .NET. It gives you information, such as stream info, current track, and so on.",
-    "ProjectSlug": "ShoutStats",
-    "ProjectGBSlug": "shoutstats-manual",
-    "NuGetPackages": [
-      "ShoutStats.Core"
-    ],
-    "ProjectImageLink": "ShoutStats.Core/OfficialAppIcon-ShoutStats-512.png"
-  },
-  {
-    "ProjectName": "ManagedWeatherMap",
-    "Description": "Using OpenWeatherMap as the backend for this library, this library got the \"Managed\" prefix because it's made in .NET. It displays weather data for any city you choose.",
-    "ProjectSlug": "ManagedWeatherMap",
-    "ProjectGBSlug": "managedweathermap-manual",
-    "NuGetPackages": [
-      "ManagedWeatherMap"
-    ],
-    "ProjectImageLink": "ManagedWeatherMap/OfficialAppIcon-ManagedWeatherMap-512.png"
-  },
-  {
     "ProjectName": "LineNumbers",
     "Description": "This library gets your C# and Visual Basic project's total line numbers. This can be used for analytical applications used to analyze these projects.",
     "ProjectSlug": "LineNumbers",
@@ -107,16 +87,6 @@
     "ProjectImageLink": "OfficialAppIcon-ColorSeq-Rust-512.png"
   },
   {
-    "ProjectName": "Syndian",
-    "Description": "C# library that reads the RSS feeds and parses them",
-    "ProjectSlug": "Syndian",
-    "ProjectGBSlug": "syndian-manual",
-    "NuGetPackages": [
-      "Syndian"
-    ],
-    "ProjectImageLink": "Syndian/OfficialAppIcon-Syndian-512.png"
-  },
-  {
     "ProjectName": "Terminaux",
     "Description": "This library aims to be the most advanced console manipulation library for your console applications. This library allows you to manipulate with the console, like colors, color selection, choices, inputs, text writing, and more.",
     "ProjectSlug": "Terminaux",
@@ -138,7 +108,7 @@
   },
   {
     "ProjectName": "BassBoom",
-    "Description": "0.0.1 Alpha 2 - A cross-platform music app and library",
+    "Description": "0.0.1 Alpha 3 - A cross-platform music app and library",
     "ProjectSlug": "BassBoom",
     "ProjectGBSlug": "bassboom-manual",
     "NuGetPackages": [
@@ -168,5 +138,15 @@
         "Textify.Online"
     ],
     "ProjectImageLink": "Textify/OfficialAppIcon-Textify-512.png"
+  },
+  {
+    "ProjectName": "Nettify",
+    "Description": "Internet accessory tools for C# and Visual Basic",
+    "ProjectSlug": "Nettify",
+    "ProjectGBSlug": "nettify-manual", 
+    "NuGetPackages": [
+        "Nettify"
+    ],
+    "ProjectImageLink": "Nettify/OfficialAppIcon-Nettify-512.png"
   }
 ]
