@@ -148,5 +148,11 @@
         "Nettify"
     ],
     "ProjectImageLink": "Nettify/OfficialAppIcon-Nettify-512.png"
+  },
+  {
+    "ProjectName": "NetLimDisable",
+    "Description": "Disables the WLAN AutoConfig bad state tracking for Windows 10 or later",
+    "ProjectSlug": "NetLimDisable",
+    "ProjectImageLink": "NetLimDisable/OfficialAppIcon-WinPowerTools-512.png"
   }
 ]
