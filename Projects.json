@@ -154,5 +154,15 @@
     "Description": "Disables the WLAN AutoConfig bad state tracking for Windows 10 or later",
     "ProjectSlug": "NetLimDisable",
     "ProjectImageLink": "NetLimDisable/OfficialAppIcon-WinPowerTools-512.png"
+  },
+  {
+    "ProjectName": "NativeLand",
+    "Description": "C# library for loading native libraries in both the classic .NET Framework and the modern .NET",
+    "ProjectSlug": "NativeLand",
+    "ProjectGBSlug": "nativeland-manual", 
+    "NuGetPackages": [
+        "NativeLand"
+    ],
+    "ProjectImageLink": "NativeLand/OfficialAppIcon-NativeLand-512.png"
   }
 ]
