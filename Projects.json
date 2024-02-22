@@ -77,16 +77,6 @@
     "ProjectImageLink": "VisualCard/OfficialAppIcon-VisualCard-512.png"
   },
   {
-    "ProjectName": "colorseq-rust",
-    "Description": "Simplifies how to make your own color VT sequence to print text with customized colors to your console, including 255 and true color support, color blind support, and various color properties. Rust version. Part of the Terminaux suite.",
-    "ProjectSlug": "colorseq-rust",
-    "ProjectGBSlug": "terminaux-manual",
-    "NuGetPackages": [
-	
-    ],
-    "ProjectImageLink": "OfficialAppIcon-ColorSeq-Rust-512.png"
-  },
-  {
     "ProjectName": "Terminaux",
     "Description": "This library aims to be the most advanced console manipulation library for your console applications. This library allows you to manipulate with the console, like colors, color selection, choices, inputs, text writing, and more.",
     "ProjectSlug": "Terminaux",
