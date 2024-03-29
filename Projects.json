@@ -21,15 +21,6 @@
     "ProjectImageLink": "GRILO.Bootloader/OfficialAppIcon-GRILO-512.png"
   },
   {
-    "ProjectName": "RetroKS",
-    "Description": "RetroKS allows you to use the 0.0.4 version of Kernel Simulator, which was out in 2018. It usually is run by Kernel Simulator 0.0.24.0 or later.",
-    "ProjectSlug": "RetroKS",
-    "NuGetPackages": [
-
-    ],
-    "ProjectImageLink": "RetroKS/OfficialAppIcon-KernelSimulator-256.png"
-  },
-  {
     "ProjectName": "dotify",
     "Description": "Dotify allows you to create a dotfiles repository right from your Linux user profile easily. It supports dotfolders, too! And not only create the repository, but manage it and synchronize it to other systems in your network.",
     "ProjectSlug": "dotify",
@@ -57,16 +48,6 @@
     ]
   },
   {
-    "ProjectName": "LineNumbers",
-    "Description": "This library gets your C# and Visual Basic project's total line numbers. This can be used for analytical applications used to analyze these projects.",
-    "ProjectSlug": "LineNumbers",
-    "ProjectGBSlug": "linenumbers-manual",
-    "NuGetPackages": [
-      "LineNumbers.Core"
-    ],
-    "ProjectImageLink": "LineNumbers.Core/OfficialAppIcon-LineNumbers-512.png"
-  },
-  {
     "ProjectName": "VisualCard",
     "Description": "This library aims to parse all kinds of contact files, including the VCard 4 files. It can be used in contact and phone applications.",
     "ProjectSlug": "VisualCard",
@@ -85,16 +66,6 @@
       "Terminaux"
     ],
     "ProjectImageLink": "Terminaux/OfficialAppIcon-Terminaux-512.png"
-  },
-  {
-    "ProjectName": "NuGlobal",
-    "Description": "nuglobal is the offline NuGet global feed initializer for .NET offline builds. It allows you to install NuGet package files to either your home directory or to your systemwide configuration directory so that they can get initialized for offline .NET builds.",
-    "ProjectSlug": "NuGlobal",
-    "ProjectGBSlug": "nuglobal-manual",
-    "NuGetPackages": [
-      
-    ],
-    "ProjectImageLink": "OfficialAppIcon-NuGlobal-512.png"
   },
   {
     "ProjectName": "BassBoom",
