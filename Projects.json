@@ -126,5 +126,16 @@
         "NativeLand"
     ],
     "ProjectImageLink": "NativeLand/OfficialAppIcon-NativeLand-512.png"
+  },
+  {
+    "ProjectName": "FileMagic",
+    "Description": "C# library for getting deep file descriptions from their magic number using the libmagic library from the 80's",
+    "ProjectSlug": "FileMagic",
+    "ProjectGBSlug": "filemagic-manual", 
+    "NuGetPackages": [
+        "FileMagicManaged",
+        "FileMagic.Native"
+    ],
+    "ProjectImageLink": "FileMagic/OfficialAppIcon-FileMagic-512.png"
   }
 ]
