@@ -10,17 +10,6 @@
     "ProjectImageLink": "public/Nitrocid/OfficialAppIcon-KernelSimulator-512.png"
   },
   {
-    "ProjectName": "GRILO",
-    "Description": "GRILO is a managed bootloader simulator made entirely with .NET. It allows you to \"boot\" to .NET assemblies that are compatible with GRILO. You too! You can make your .NET application bootable!",
-    "ProjectSlug": "GRILO",
-    "ProjectGBSlug": "grilo-manual",
-    "NuGetPackages": [
-      "GRILO.Bootloader",
-      "GRILO.Boot"
-    ],
-    "ProjectImageLink": "GRILO.Bootloader/OfficialAppIcon-GRILO-512.png"
-  },
-  {
     "ProjectName": "dotify",
     "Description": "Dotify allows you to create a dotfiles repository right from your Linux user profile easily. It supports dotfolders, too! And not only create the repository, but manage it and synchronize it to other systems in your network.",
     "ProjectSlug": "dotify",
