@@ -115,5 +115,16 @@
         "NativeLand"
     ],
     "ProjectImageLink": "NativeLand/OfficialAppIcon-NativeLand-512.png"
+  },
+  {
+    "ProjectName": "Magico",
+    "Description": "A C# library that allows you to do various magic tricks, such as IEnumerable and file magic numbers",
+    "ProjectSlug": "Magico",
+    "ProjectGBSlug": "magico-manual", 
+    "NuGetPackages": [
+        "Magico",
+        "Magico.Native"
+    ],
+    "ProjectImageLink": "Magico/OfficialAppIcon-Magico-512.png"
   }
 ]
