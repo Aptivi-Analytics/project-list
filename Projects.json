@@ -58,7 +58,7 @@
   },
   {
     "ProjectName": "BassBoom",
-    "Description": "0.0.1 Alpha 3 - A cross-platform music app and library",
+    "Description": "A cross-platform music app and library",
     "ProjectSlug": "BassBoom",
     "ProjectGBSlug": "bassboom-manual",
     "NuGetPackages": [
@@ -105,16 +105,6 @@
     "ProjectSlug": "NetLimDisable",
     "ProjectImageLink": "NetLimDisable/OfficialAppIcon-WinPowerTools-512.png",
     "ProjectOrg": "WPT"
-  },
-  {
-    "ProjectName": "NativeLand",
-    "Description": "C# library for loading native libraries in both the classic .NET Framework and the modern .NET",
-    "ProjectSlug": "NativeLand",
-    "ProjectGBSlug": "nativeland-manual", 
-    "NuGetPackages": [
-        "NativeLand"
-    ],
-    "ProjectImageLink": "NativeLand/OfficialAppIcon-NativeLand-512.png"
   },
   {
     "ProjectName": "Magico",
