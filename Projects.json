@@ -116,5 +116,15 @@
         "Magico.Native"
     ],
     "ProjectImageLink": "Magico/OfficialAppIcon-Magico-512.png"
+  },
+  {
+    "ProjectName": "ChemiStar",
+    "Description": "Managed periodic table of elements querying for C# applications",
+    "ProjectSlug": "ChemiStar",
+    "ProjectGBSlug": "chemistar-manual", 
+    "NuGetPackages": [
+        "ChemiStar"
+    ],
+    "ProjectImageLink": "Magico/OfficialAppIcon-Magico-512.png"
   }
 ]
