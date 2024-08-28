@@ -126,5 +126,15 @@
         "ChemiStar"
     ],
     "ProjectImageLink": "ChemiStar/OfficialAppIcon-ChemiStar-512.png"
+  },
+  {
+    "ProjectName": "Metalinker",
+    "Description": "Metalink 3.0 and 4.0 parser for C# applications that download big files",
+    "ProjectSlug": "Metalinker",
+    "ProjectGBSlug": "metalinker-manual", 
+    "NuGetPackages": [
+        "Metalinker"
+    ],
+    "ProjectImageLink": "Metalinker/OfficialAppIcon-Metalinker-512.png"
   }
 ]
