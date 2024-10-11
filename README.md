@@ -1,7 +1,7 @@
 # Project List
 
-This repository stores all our projects, including the upcoming ones like VisualCard.
+This repository stores all our projects. The `Projects.json` file is used in our website.
 
 ## Copyright
 
-Copyright (c) 2023 Aptivi Analytics
+Copyright (c) 2023-2025 Aptivi Analytics

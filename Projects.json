@@ -13,28 +13,19 @@
     "ProjectName": "dotify",
     "Description": "Dotify allows you to create a dotfiles repository right from your Linux user profile easily. It supports dotfolders, too! And not only create the repository, but manage it and synchronize it to other systems in your network.",
     "ProjectSlug": "dotify",
-    "ProjectGBSlug": "dotify-manual",
-    "NuGetPackages": [
-
-    ]
+    "ProjectGBSlug": "dotify-manual"
   },
   {
     "ProjectName": "uprepos",
     "Description": "This program aids in updating all your existing Git repositories in your Git library. This saves you time from having to run git fetch and pull individually.",
     "ProjectSlug": "uprepos",
-    "ProjectGBSlug": "uprepos-manual",
-    "NuGetPackages": [
-
-    ]
+    "ProjectGBSlug": "uprepos-manual"
   },
   {
     "ProjectName": "pushrepos",
     "Description": "This program aids in pushing all your existing Git repositories to the remote if you made multiple changes to multiple repos. This simplifies from writing individual commit messages and pushing them to just one command.",
     "ProjectSlug": "pushrepos",
-    "ProjectGBSlug": "pushrepos-manual",
-    "NuGetPackages": [
-
-    ]
+    "ProjectGBSlug": "pushrepos-manual"
   },
   {
     "ProjectName": "VisualCard",
@@ -42,7 +33,9 @@
     "ProjectSlug": "VisualCard",
     "ProjectGBSlug": "visualcard-manual",
     "NuGetPackages": [
-      "VisualCard"
+      "VisualCard",
+      "VisualCard.Calendar",
+      "VisualCard.Extras"
     ],
     "ProjectImageLink": "VisualCard/OfficialAppIcon-VisualCard-512.png"
   },
@@ -52,7 +45,8 @@
     "ProjectSlug": "Terminaux",
     "ProjectGBSlug": "terminaux-manual",
     "NuGetPackages": [
-      "Terminaux"
+      "Terminaux",
+      "Terminaux.Images"
     ],
     "ProjectImageLink": "Terminaux/OfficialAppIcon-Terminaux-512.png"
   },
@@ -62,8 +56,7 @@
     "ProjectSlug": "BassBoom",
     "ProjectGBSlug": "bassboom-manual",
     "NuGetPackages": [
-      "BassBoom.Basolia",
-      "BassBoom.Native"
+      "BassBoom.Basolia"
     ],
     "ProjectImageLink": "BassBoom/Assets/OfficialAppIcon-BassBoom-512.png"
   },
@@ -74,7 +67,8 @@
     "ProjectGBSlug": "specprobe-manual",
     "NuGetPackages": [
       "SpecProbe",
-      "SpecProbe.Native"
+      "SpecProbe.Loader",
+      "SpecProbe.Software"
     ],
     "ProjectImageLink": "SpecProbe/OfficialAppIcon-SpecProbe-512.png"
   },
@@ -85,7 +79,7 @@
     "ProjectGBSlug": "textify-manual", 
     "NuGetPackages": [
         "Textify.Offline",
-        "Textify.Online"
+        "Textify.Data"
     ],
     "ProjectImageLink": "Textify/OfficialAppIcon-Textify-512.png"
   },
@@ -113,8 +107,7 @@
     "ProjectSlug": "Magico",
     "ProjectGBSlug": "magico-manual", 
     "NuGetPackages": [
-        "Magico",
-        "Magico.Native"
+        "Magico"
     ],
     "ProjectImageLink": "Magico/OfficialAppIcon-Magico-512.png"
   },
