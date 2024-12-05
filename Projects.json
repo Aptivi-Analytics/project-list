@@ -132,13 +132,10 @@
     "ProjectImageLink": "Metalinker/OfficialAppIcon-Metalinker-512.png"
   },
   {
-    "ProjectName": "CliTester",
-    "Description": "C# library that allows you to make your console tests more intuitive than before",
-    "ProjectSlug": "CliTester",
-    "ProjectGBSlug": "clitester-manual", 
-    "NuGetPackages": [
-        "CliTester"
-    ],
-    "ProjectImageLink": "CliTester/OfficialAppIcon-CliTester-512.png"
+    "ProjectName": "BskyId",
+    "Description": "A very small shell script that allows you to get your BlueSky ID from your handle",
+    "ProjectSlug": "BskyId",
+    "ProjectGBSlug": "bskyid-manual",
+    "ProjectImageLink": "OfficialAppIcon-BskyId-512.png"
   }
 ]
