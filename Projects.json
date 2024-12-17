@@ -37,7 +37,7 @@
       "VisualCard.Calendar",
       "VisualCard.Extras"
     ],
-    "ProjectImageLink": "VisualCard/OfficialAppIcon-VisualCard-512.png"
+    "ProjectImageLink": "assets/OfficialAppIcon-VisualCard-512.png"
   },
   {
     "ProjectName": "Terminaux",
@@ -48,7 +48,7 @@
       "Terminaux",
       "Terminaux.Images"
     ],
-    "ProjectImageLink": "Terminaux/OfficialAppIcon-Terminaux-512.png"
+    "ProjectImageLink": "assets/OfficialAppIcon-Terminaux-512.png"
   },
   {
     "ProjectName": "BassBoom",
@@ -58,7 +58,7 @@
     "NuGetPackages": [
       "BassBoom.Basolia"
     ],
-    "ProjectImageLink": "BassBoom/Assets/OfficialAppIcon-BassBoom-512.png"
+    "ProjectImageLink": "assets/OfficialAppIcon-BassBoom-512.png"
   },
   {
     "ProjectName": "SpecProbe",
@@ -70,7 +70,7 @@
       "SpecProbe.Loader",
       "SpecProbe.Software"
     ],
-    "ProjectImageLink": "SpecProbe/OfficialAppIcon-SpecProbe-512.png"
+    "ProjectImageLink": "assets/OfficialAppIcon-SpecProbe-512.png"
   },
   {
     "ProjectName": "Textify",
@@ -81,7 +81,7 @@
         "Textify.Offline",
         "Textify.Data"
     ],
-    "ProjectImageLink": "Textify/OfficialAppIcon-Textify-512.png"
+    "ProjectImageLink": "assets/OfficialAppIcon-Textify-512.png"
   },
   {
     "ProjectName": "Nettify",
@@ -91,7 +91,7 @@
     "NuGetPackages": [
         "Nettify"
     ],
-    "ProjectImageLink": "Nettify/OfficialAppIcon-Nettify-512.png"
+    "ProjectImageLink": "assets/OfficialAppIcon-Nettify-512.png"
   },
   {
     "ProjectName": "NetLimDisable",
@@ -109,7 +109,7 @@
     "NuGetPackages": [
         "Magico"
     ],
-    "ProjectImageLink": "Magico/OfficialAppIcon-Magico-512.png"
+    "ProjectImageLink": "assets/OfficialAppIcon-Magico-512.png"
   },
   {
     "ProjectName": "ChemiStar",
@@ -119,7 +119,7 @@
     "NuGetPackages": [
         "ChemiStar"
     ],
-    "ProjectImageLink": "ChemiStar/OfficialAppIcon-ChemiStar-512.png"
+    "ProjectImageLink": "assets/OfficialAppIcon-ChemiStar-512.png"
   },
   {
     "ProjectName": "Metalinker",
@@ -129,7 +129,7 @@
     "NuGetPackages": [
         "Metalinker"
     ],
-    "ProjectImageLink": "Metalinker/OfficialAppIcon-Metalinker-512.png"
+    "ProjectImageLink": "assets/OfficialAppIcon-Metalinker-512.png"
   },
   {
     "ProjectName": "BskyId",
