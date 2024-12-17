@@ -137,5 +137,18 @@
     "ProjectSlug": "BskyId",
     "ProjectGBSlug": "bskyid-manual",
     "ProjectImageLink": "OfficialAppIcon-BskyId-512.png"
+  },
+  {
+    "ProjectName": "Aptivestigate",
+    "Description": "Crash handler and logging library for C#",
+    "ProjectSlug": "Aptivestigate",
+    "ProjectGBSlug": "aptivestigate-manual", 
+    "NuGetPackages": [
+        "Aptivestigate",
+        "Aptivestigate.Log4Net",
+        "Aptivestigate.Serilog",
+        "Aptivestigate.NLog"
+    ],
+    "ProjectImageLink": "assets/OfficialAppIcon-Aptivestigate-512.png"
   }
 ]
